@@ -1,1 +1,1 @@
-# paras
+# Quadratic model using tensorflow
